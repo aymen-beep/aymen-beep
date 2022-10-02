@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aymen-beep
+- 👋 Hi, I’m @aymen
 - 👀 I’m interested in cyber security , data-science , network
 - 🌱 I’m currently learning data-science ,cyber security
 - 💞️ I’m looking to collaborate on python project and security project
